@@ -1,4 +1,4 @@
-package main
+package taskService
 
 import "gorm.io/gorm"
 
